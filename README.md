@@ -1,5 +1,7 @@
 ### Hi there 👋, my name is Franco Armando
-[<img src='https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg' alt='linkedin' height='30'>](https://dev.to/ihchowdhury)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/ibrahimchowdhury/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='30'>](https://stackoverflow.com/users/5032512)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='30'>](http://ibrahimchowdhury.me/)
+
+[<img src='[https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)' alt='linkedin' height='30'>](https://www.linkedin.com/in/franco-armando/)
+
 
 My name is Franco Armando, I am a student of the University Technician in Programming at UTN 
 
@@ -8,6 +10,8 @@ I deeply enjoy studying programming, especially the Java language and its relate
 I am always looking to learn and apply design patterns such as DAO, Factory and Builder to improve application development.
 
 I consider myself a responsible, hard-working and constant person, with a strong desire to expand my knowledge. I have the ability to quickly adapt to new situations and challenges, which allows me to interact comfortably with people of different levels and backgrounds.
+
+[![My Skills](https://skillicons.dev/icons?i=java,spring,html,css,aws, mysql)](https://skillicons.dev)
 
 Tech Stack:
 
