@@ -8,6 +8,12 @@ I am always looking to learn and apply design patterns such as DAO, Factory and 
 
 I consider myself a responsible, hard-working and constant person, with a strong desire to expand my knowledge. I have the ability to quickly adapt to new situations and challenges, which allows me to interact comfortably with people of different levels and backgrounds.
 
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,python,django,html,css,mysql,maven" />
+  </a>
+</p>
+
 Tech Stack:
 
 - Backend: Java8, Spring MVC, Spring Boot, Hibernate, Restful Services, Microservices
