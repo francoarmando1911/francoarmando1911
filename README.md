@@ -1,4 +1,6 @@
-### Hi there 👋, my name is Franco Armando
+<p align="center"><h1 align="center">Hi 👋, I'm Franco Armando
+     <br>
+    <br>
 
 My name is Franco Armando, I am a student of the University Technician in Programming at UTN 
 
@@ -14,7 +16,7 @@ I consider myself a responsible, hard-working and constant person, with a strong
   </a>
 </p>
 
-Tech Stack:
+Tech Stack 💻 👨🏻‍💻:
 
 - Backend: Java8, Spring MVC, Spring Boot, Hibernate, Restful Services, Microservices
 - Frontend: HTML5, CSS3, Jquery
@@ -28,7 +30,7 @@ Tech Stack:
 - Operating System: Mac, Windows
 - Project Management:Scrum
 
-Soft Skills:
+Soft Skills 👨🏻‍💻:
 
 - Problem Solving, TeamWork, Communication 
 
