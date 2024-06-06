@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Franco Armando
 
-[<img src='[https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)' alt='linkedin' height='30'>](https://www.linkedin.com/in/franco-armando/)
+[<img src='https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/franco-armando/)
 
 
 My name is Franco Armando, I am a student of the University Technician in Programming at UTN 
