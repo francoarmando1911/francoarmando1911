@@ -12,7 +12,7 @@ I consider myself a responsible, hard-working and constant person, with a strong
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,python,django,html,css,mysql,maven" />
+    <img src="https://skillicons.dev/icons?i=java,spring,maven,python,django,html,css,mysql" />
   </a>
 </p>
 
