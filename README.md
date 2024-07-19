@@ -18,14 +18,13 @@ I consider myself a responsible, hard-working and constant person, with a strong
 
 Tech Stack 💻 👨🏻‍💻:
 
-- Backend: Java8, Spring MVC, Spring Boot, Hibernate, Restful Services, Microservices
+- Backend: Java8, Spring MVC, Spring Boot, Python, Django, Hibernate, Restful Services, Microservices
 - Frontend: HTML5, CSS3, Jquery
 - Database: MySql
 - Build tools: Maven
 - Servers: Tomcat
 - Cloud: AWS
 - Version Control: Git
-- Prototyping: JustInMind
 - IDE: Intellij IDEA, VS Code, Netbeans
 - Operating System: Mac, Windows
 - Project Management:Scrum
@@ -34,4 +33,4 @@ Soft Skills 👨🏻‍💻:
 
 - Problem Solving, TeamWork, Communication 
 
-Last Edited on: 05/06/2024
+Last Edited on: 17/07/2024
