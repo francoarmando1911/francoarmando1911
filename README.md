@@ -4,7 +4,7 @@
 
 My name is Franco Armando, I am a student of the University Technician in Programming at UTN 
 
-I deeply enjoy studying programming, especially the Java language and its related technologies, through a self-taught approach. My areas of knowledge include Java (POO), Spring Boot, Maven, HTTP-REST and relational databases such as MySQL.
+I deeply enjoy studying programming, especially the Java language and its related technologies, through a self-taught approach. My areas of knowledge include Java (POO), Spring Boot, Maven, Python, Django, HTTP-REST and relational databases such as MySQL.
 
 I am always looking to learn and apply design patterns such as DAO, Factory and Builder to improve application development.
 
