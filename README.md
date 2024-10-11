@@ -12,16 +12,16 @@ I consider myself a responsible, hard-working and constant person, with a strong
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,maven,python,django,html,css,mysql" />
+    <img src="https://skillicons.dev/icons?i=java,spring,maven,javascript,react,typescript,python,django,html,css,mysql" />
   </a>
 </p>
 
 Tech Stack 💻 👨🏻‍💻:
 
 - Backend: Java8, Spring MVC, Spring Boot, Python, Django, Hibernate, Restful Services, Microservices
-- Frontend: HTML5, CSS3, Jquery
+- Frontend: HTML5, CSS3, Jquery, React, Typescript
 - Database: MySql
-- Build tools: Maven
+- Build tools: Maven, Vite
 - Servers: Tomcat
 - Cloud: AWS
 - Version Control: Git
