@@ -19,12 +19,11 @@
 
 <h2>Tech Stack 💻 👨🏻‍💻:</h2>
 <ul>
-    <li>Backend: Java 8, Spring MVC, Spring Boot, Python, Django, Hibernate, Restful Services, Microservices</li>
-    <li>Frontend: HTML5, CSS3, jQuery, React, TypeScript</li>
+    <li>Backend: Java 8, Spring MVC, Spring Boot, Python, Django, Restful Services, Microservices</li>
+    <li>Frontend: HTML5, CSS3, jQuery, React, TypeScript, TailwindCss</li>
     <li>Database: MySQL</li>
     <li>Build Tools: Maven, Vite</li>
     <li>Servers: Tomcat</li>
-    <li>Cloud: AWS</li>
     <li>Version Control: Git</li>
     <li>IDE: IntelliJ IDEA, VS Code, NetBeans</li>
     <li>Operating System: Mac, Windows</li>
