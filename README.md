@@ -13,7 +13,7 @@
 
 <p align="left">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=java,spring,maven,vite,javascript,react,typescript,tailwind,python,html,css,mysql,mongo" alt="Skillicons" />
+        <img src="https://skillicons.dev/icons?i=java,spring,maven,html,css,vite,javascript,react,typescript,tailwind,python,mysql,mongo" alt="Skillicons" />
     </a>
 </p>
 
@@ -21,7 +21,7 @@
 <ul>
     <li>Backend: Java 8, Spring MVC, Spring Boot, Python, Django, Restful Services, Microservices</li>
     <li>Frontend: HTML5, CSS3, jQuery, React, TypeScript, TailwindCss</li>
-    <li>Database: MySQL</li>
+    <li>Database: MySQL, Mongo</li>
     <li>Build Tools: Maven, Vite</li>
     <li>Servers: Tomcat</li>
     <li>Version Control: Git</li>
