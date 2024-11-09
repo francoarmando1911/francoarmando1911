@@ -36,3 +36,10 @@
     <li>Teamwork</li>
     <li>Communication</li>
 </ul>
+
+<div align="center">
+<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
+
+[![](https://github-readme-stats.vercel.app/api?username=francoarmando1911&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/francoarmando1911)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=francoarmando1911&theme=material-palenight)](https://github.com/francoarmando1911)
+</div>
