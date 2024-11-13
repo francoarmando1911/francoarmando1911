@@ -3,9 +3,9 @@
     My name is Franco Armando, I am a student of the University Technician in Programming at UTN.
     <br><br>
     I deeply enjoy studying programming, especially the Java language and its related technologies, through a self-taught approach. 
-    My areas of knowledge include Java (POO), Spring Boot, Maven, Python, Django, HTTP-REST and relational databases such as MySQL.
+    My areas of knowledge include Java (POO), Spring Boot, Maven, Python and relational databases such as MySQL.
     <br><br>
-    I am always looking to learn and apply design patterns such as DAO, Factory and Builder to improve application development.
+    I am currently studying and learning about the JavaScript language and its library React, applying TypeScript and Tailwind for styles.
     <br><br>
     I consider myself a responsible, hard-working and constant person, with a strong desire to expand my knowledge. 
     I have the ability to quickly adapt to new situations and challenges, which allows me to interact comfortably with people of different levels and backgrounds.
@@ -19,8 +19,8 @@
 
 <h2>Tech Stack 💻 👨🏻‍💻:</h2>
 <ul>
-    <li>Backend: Java 8, Spring MVC, Spring Boot, Python, Django, Restful Services, Microservices</li>
-    <li>Frontend: HTML5, CSS3, jQuery, React, TypeScript, TailwindCss</li>
+    <li>Backend: Java 8, Spring MVC, Spring Boot, Python, Microservices</li>
+    <li>Frontend: HTML5, CSS3, React, TypeScript, TailwindCss</li>
     <li>Database: MySQL, Mongo</li>
     <li>Build Tools: Maven, Vite</li>
     <li>Servers: Tomcat</li>
@@ -32,9 +32,9 @@
 
 <h2>Soft Skills 👨🏻‍💻:</h2>
 <ul>
-    <li>Problem Solving</li>
+    <li>Problem Solving: Ability to analyze and solve complex problems. </li>
     <li>Teamwork</li>
-    <li>Communication</li>
+    <li>Communication: Strong verbal and written communication skills. </li>
 </ul>
 
 <div>
