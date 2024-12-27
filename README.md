@@ -40,5 +40,9 @@
 <div>
 <h2>Github stats 💻:</h2> 
 
-[![](https://github-readme-streak-stats.herokuapp.com/?user=francoarmando1911&theme=material-palenight)](https://github.com/francoarmando1911)
+<div align="center">
+<a href="https://github.com/francoarmando1911">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francoarmando1911&layout=compact&langs_count=7&theme=default"/></a>
+</div>
+
 </div>
