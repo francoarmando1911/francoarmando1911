@@ -2,14 +2,11 @@
 <p align="center">
     My name is Franco Armando, I am a student of the University Technician in Programming at UTN.
     <br><br>
-    I deeply enjoy studying programming, especially the Java language and its related technologies, through a self-taught approach. 
-    My areas of knowledge include Java (POO), Spring Boot, Maven, Python and relational databases such as MySQL.
+    I'm a UTN FRCU programming student with 2+ years of Java experience. Eager to contribute to innovative projects, 
+    I'm expanding my skillset in modern web technologies like React, TypeScript, and Next.js. Seeking challenging roles where I can 
+    apply my knowledge and continue growing as a developer.
     <br><br>
-    I am currently studying and learning about the JavaScript language and its library React, applying TypeScript and Tailwind for styles.
-    <br><br>
-    I consider myself a responsible, hard-working and constant person, with a strong desire to expand my knowledge. 
-    I have the ability to quickly adapt to new situations and challenges, which allows me to interact comfortably with people of different levels and backgrounds.
-</p>
+    </p>
 
 <p align="left">
     <a href="https://skillicons.dev">
