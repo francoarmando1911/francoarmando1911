@@ -16,7 +16,7 @@
 
 <h2>Tech Stack 💻 👨🏻‍💻:</h2>
 <ul>
-    <li>Backend: Java 8, Spring MVC, Spring Boot, Python, Microservices</li>
+    <li>Backend: Java 8, Spring Boot, Next js, Python, Microservices</li>
     <li>Frontend: HTML5, CSS3, React, TypeScript, TailwindCss</li>
     <li>Database: MySQL, Mongo</li>
     <li>Build Tools: Maven, Vite</li>
@@ -30,7 +30,6 @@
 <h2>Soft Skills 👨🏻‍💻:</h2>
 <ul>
     <li>Problem Solving: Ability to analyze and solve complex problems. </li>
-    <li>Teamwork</li>
     <li>Communication: Strong verbal and written communication skills. </li>
 </ul>
 
