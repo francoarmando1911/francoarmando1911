@@ -18,11 +18,11 @@
 <ul>
     <li>Backend: Java 8, Spring Boot, Next js, Python, Microservices</li>
     <li>Frontend: HTML5, CSS3, React, TypeScript, TailwindCss</li>
-    <li>Database: MySQL, Mongo</li>
+    <li>Database: MySQL, Mongo, Postgres</li>
     <li>Build Tools: Maven, Vite</li>
     <li>Servers: Tomcat</li>
-    <li>Version Control: Git</li>
-    <li>IDE: IntelliJ IDEA, VS Code, NetBeans</li>
+    <li>Version Control: Git, Github</li>
+    <li>IDE: IntelliJ IDEA, Visual Studio Code, NetBeans</li>
     <li>Operating System: Mac, Windows</li>
     <li>Project Management: Scrum</li>
 </ul>
