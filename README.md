@@ -10,21 +10,20 @@
 
 <p align="left">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=java,spring,html,css,javascript,react,typescript,tailwind,nextjs,python,mysql,mongo" alt="Skillicons" />
+        <img src="https://skillicons.dev/icons?i=java,spring,html,scss,javascript,react,typescript,tailwind,nextjs,angular,mysql,mongo" alt="Skillicons" />
     </a>
 </p>
 
 <h2>Tech Stack 💻 👨🏻‍💻:</h2>
 <ul>
-    <li>Backend: Java 8, Spring Boot, Next js, Python, Microservices</li>
-    <li>Frontend: HTML5, CSS3, React, TypeScript, TailwindCss</li>
+    <li>Backend: Java 8, Spring Boot, Next js</li>
+    <li>Frontend: HTML5, SCSS, React, TypeScript, TailwindCss, Angular</li>
     <li>Database: MySQL, Mongo, Postgres</li>
     <li>Build Tools: Maven, Vite</li>
     <li>Servers: Tomcat</li>
     <li>Version Control: Git, Github</li>
     <li>IDE: IntelliJ IDEA, Visual Studio Code, NetBeans</li>
     <li>Operating System: Mac, Windows</li>
-    <li>Project Management: Scrum</li>
 </ul>
 
 <h2>Soft Skills 👨🏻‍💻:</h2>
