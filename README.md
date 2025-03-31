@@ -3,7 +3,11 @@
     My name is Franco Armando, I am a student of the University Technician in Programming at UTN.
     <br><br>
     I'm a UTN FRCU programming student with 2+ years of Java experience. Eager to contribute to innovative projects, 
-    I'm expanding my skillset in modern web technologies like React, TypeScript, and Next.js. Seeking challenging roles where I can 
+    I'm expanding my skillset in modern web technologies like React, TypeScript, and Next.js.
+    I'm currently learning:
+        - Angular
+        - Sass
+    Seeking challenging roles where I can 
     apply my knowledge and continue growing as a developer.
     <br><br>
     </p>
