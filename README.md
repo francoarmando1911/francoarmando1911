@@ -21,7 +21,7 @@
 <h2>Tech Stack 💻 👨🏻‍💻:</h2>
 <ul>
     <li>Backend: Java 8, Spring Boot, Next js</li>
-    <li>Frontend: HTML5, SCSS, React, TypeScript, TailwindCss, Angular</li>
+    <li>Frontend: HTML5, , CSS, SCSS, React, TypeScript, TailwindCss, Angular</li>
     <li>Database: MySQL, Mongo, Postgres</li>
     <li>Build Tools: Maven, Vite</li>
     <li>Servers: Tomcat</li>
