@@ -16,10 +16,9 @@
 <h2>Tech Stack 💻 👨🏻‍💻:</h2>
 <ul>
     <li>Backend: Java 8, Spring Boot, Next js</li>
-    <li>Frontend: HTML5, , CSS, SCSS, React, TypeScript, TailwindCss, Angular</li>
+    <li>Frontend: HTML, CSS, SCSS, React, TypeScript, TailwindCss, Angular</li>
     <li>Database: MySQL, Mongo, Postgres</li>
     <li>Build Tools: Maven, Vite</li>
-    <li>Servers: Tomcat</li>
     <li>Version Control: Git, Github</li>
     <li>IDE: IntelliJ IDEA, Visual Studio Code, NetBeans</li>
     <li>Operating System: Mac, Windows</li>
