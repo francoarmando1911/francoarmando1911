@@ -23,13 +23,6 @@
     <li>IDE: IntelliJ IDEA, Visual Studio Code, NetBeans</li>
     <li>Operating System: Mac, Windows</li>
 </ul>
-
-<h2>Soft Skills 👨🏻‍💻:</h2>
-<ul>
-    <li>Problem Solving: Ability to analyze and solve complex problems. </li>
-    <li>Communication: Strong verbal and written communication skills. </li>
-</ul>
-
 <div>
 <h2>Github stats 💻:</h2> 
 
