@@ -9,14 +9,14 @@
 
 <p align="left">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=java,spring,html,css,react,typescript,tailwind,angular,scss,mysql,postgres,postman,docker,git,github" alt="Skillicons" />
+        <img src="https://skillicons.dev/icons?i=java,spring,html,css,react,typescript,tailwind,nextjs,angular,scss,mysql,postgres,postman,docker,git,github" alt="Skillicons" />
     </a>
 </p>
 
 <h2>Tech Stack 💻 👨🏻‍💻:</h2>
 <ul>
     <li>Backend: Java, Spring Boot</li>
-    <li>Frontend: HTML, CSS, SCSS, React, TypeScript, TailwindCss, Angular</li>
+    <li>Frontend: HTML, CSS, SCSS, React, TypeScript, TailwindCss, Angular, Next.js</li>
     <li>Database: MySQL, Mongo, Postgres</li>
     <li>Build Tools: Maven, Vite</li>
     <li>Version Control: Git, Github</li>
