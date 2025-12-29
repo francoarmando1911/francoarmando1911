@@ -13,7 +13,7 @@
 <ul>
     <li>Backend: Java, Spring Boot</li>
     <li>Frontend: HTML, CSS, SCSS, React, TypeScript, TailwindCss, Angular, Next.js</li>
-    <li>Database: SQL, Mongo, Postgres</li>
+    <li>Database: SQL, Pl-sql, Mongo, Postgres</li>
     <li>Build Tools: Maven, Vite</li>
     <li>Version Control: Git, Github</li>
     <li>IDE: IntelliJ IDEA, Visual Studio Code, NetBeans</li>
