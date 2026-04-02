@@ -1,4 +1,6 @@
+<div align="center">
 # 👋 Hi, I'm Franco
+</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7A41D&center=true&vCenter=true&width=435&lines=Backend+Developer;Oracle+%2F+Java+%2F+Spring+Boot;UTN+Advanced+Student" alt="Typing SVG" />
