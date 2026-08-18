@@ -49,15 +49,6 @@ Técnico Universitario en Programación (UTN FRCU) trabajando como **Software De
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=francoarmando1911&theme=radical&hide_border=true" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=francoarmando1911&theme=react-dark&hide_border=true" />
-</div>
-
----
-
 ### 🎓 Education
 
 **Tecnicatura Universitaria en Programación** — UTN FRCU (Facultad Regional Concepción del Uruguay)
